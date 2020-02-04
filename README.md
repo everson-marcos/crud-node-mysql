@@ -57,5 +57,5 @@ PUT localhost:8080/update/1
 ```
 - #### Remover um registro
 ```
-localhost:8080/delete/1
+DELETE localhost:8080/delete/1
 ```
